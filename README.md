@@ -45,7 +45,11 @@ init(180167558,"127.0.0.1:10789");//参数：群号,ip   注意群号只是一�
 下面以java为例可以这样写：
 
 private final String responseHead=
-			"HTTP/1.1 200 OK\n" + 
-			"Content-Type: text/html charset=utf-8\n"
-			+ "Access-Control-Allow-Origin: *\n"
-			+ "Server: cloudflare\n";
+
+"HTTP/1.1 200 OK\n" + 
+			
+"Content-Type: text/html charset=utf-8\n" +
+			
+"Access-Control-Allow-Origin: *\n" +
+			
+"Server: cloudflare\n";
