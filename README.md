@@ -1,0 +1,2 @@
+# ChatGPT_Communicate_JavaScript
+在ChatGPT网页上使用JavaScript和你的程序进行交互
